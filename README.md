@@ -16,7 +16,7 @@
 
 [![Neel's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true)](https://github.com/neelbavarva/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva)](https://github.com/neelbavarva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact)](https://github.com/neelbavarva/github-readme-stats)
 
 <hr>
 
