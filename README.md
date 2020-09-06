@@ -6,12 +6,12 @@
 ### Techs I know:<br>
 
 <p>
-   <a><img alt="neelbavarva | Java" width="40px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
-   <a><img alt="neelbavarva | Python" width="37px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
-   <a><img alt="neelbavarva | Javascript" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png"></a>
-   <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
-   <a><img alt="neelbavarva | React" width="37px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a>
-   <a><img alt="neelbavarva | Bootstrap" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
+   <a><img alt="neelbavarva | Java" width="40px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png" href="https://www.oracle.com/java/technologies/javase-downloads.html"></a>
+   <a><img alt="neelbavarva | Python" width="37px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png" href="https://www.python.org/"></a>
+   <a><img alt="neelbavarva | Javascript" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png" href="https://www.javascript.com/"></a>
+   <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png" href="https://reactjs.org/"></a>
+   <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png" href="https://www.djangoproject.com/"></a>
+   <a><img alt="neelbavarva | Bootstrap" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png" href="https://getbootstrap.com/"></a>
 
 </p>
 
