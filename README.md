@@ -6,11 +6,11 @@
 ### Techs I know:<br>
 
 <p>
-   <a><img alt="neelbavarva | Java" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
-   <a><img alt="neelbavarva | Python" width="30px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
-   <a><img alt="neelbavarva | Javascript" width="30px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png"></a>
-   <a><img alt="neelbavarva | React" width="30px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
-   <a><img alt="neelbavarva | Bootstrap" width="50px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
+   <a><img alt="neelbavarva | Java" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
+   <a> <img alt="neelbavarva | Python" width="35px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
+   <a> <img alt="neelbavarva | Javascript" width="35px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png"></a>
+   <a> <img alt="neelbavarva | React" width="35px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
+   <a> <img alt="neelbavarva | Bootstrap" width="65px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
    
 </p>
 
