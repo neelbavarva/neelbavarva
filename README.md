@@ -6,6 +6,8 @@
 ### Techs I know:<br>
 
 <p>
+   <a><img src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
+   <a><img src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
 
 [<img alt="neelbavarva | Java" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png">][java]
 
@@ -16,6 +18,12 @@
 [<img alt="neelbavarva | React" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png">][react]
 
 [<img alt="neelbavarva | Bootstrap" width="60px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png">][bootstrap]
+
+[java]: https://www.oracle.com/java/technologies/javase-downloads.html
+[python]: https://www.python.org/
+[javascript]: https://www.javascript.com/
+[react]: https://reactjs.org/
+[bootstrap]: https://getbootstrap.com/
 
 </p>
 
@@ -36,11 +44,7 @@
 
 [<img align="left" alt="neelbavarva | Facebook" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/facebook.png" />][facebook]
 
-[java]: https://www.oracle.com/java/technologies/javase-downloads.html
-[python]: https://www.python.org/
-[javascript]: https://www.javascript.com/
-[react]: https://reactjs.org/
-[bootstrap]: https://getbootstrap.com/
+
 [quora]: https://www.quora.com/profile/Neel-Bavarva
 [facebook]: https://www.facebook.com/neel.bavarva
 [twitter]: https://twitter.com/BavarvaNeel
