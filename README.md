@@ -1,4 +1,4 @@
-### Hi there, I'm Neel 👋
+### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 [![Neel's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=default)](https://github.com/neelbavarva/github-readme-stats)
 
