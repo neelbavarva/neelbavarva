@@ -12,9 +12,15 @@
 <br />
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/neelbavarva/github-readme-stats)
+
+<br>
+
+
 [twitter]: https://twitter.com/BavarvaNeel
 [instagram]: https://www.instagram.com/never_neel/
 [linkedin]: https://www.linkedin.com/in/neel-bavarva-61662a1a3
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/neelbavarva/github-readme-stats)
+
+
