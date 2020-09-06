@@ -5,15 +5,19 @@
 
 ### Techs I know:<br>
 
+<p>
+
 [<img alt="neelbavarva | Java" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png">][java]
 
 [<img alt="neelbavarva | Python" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png">][python]
 
 [<img alt="neelbavarva | Javascript" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png">][javascript]
 
-[<img alt="neelbavarva | React" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png">][react]
+[<img alt="neelbavarva | React" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png">][react]
 
-[<img alt="neelbavarva | Bootstrap" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png">][bootstrap]
+[<img alt="neelbavarva | Bootstrap" width="60px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png">][bootstrap]
+
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/neelbavarva/github-readme-stats)
