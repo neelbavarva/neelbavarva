@@ -15,7 +15,7 @@
 
 [<img align="left" alt="neelbavarva | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
 
-[<img align="left" alt="neelbavarva | Facebook" width="22px" src="images/facebook.png" />][facebook]
+[<img align="left" alt="neelbavarva | Facebook" width="22px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/facebook.png" />][facebook]
 
 
 
