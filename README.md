@@ -11,14 +11,16 @@
 ### Connect with me:
 
 
-[<img align="left" alt="neelbavarva | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="neelbavarva | LinkedIn" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/linkedin.png" />][linkedin]
 
-[<img align="left" alt="neelbavarva | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="neelbavarva | Quora" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/quora.png" />][quora]
 
-[<img align="left" alt="neelbavarva | Facebook" width="22px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/facebook.png" />][facebook]
+[<img align="left" alt="neelbavarva | Twitter" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/twitter.png" />][twitter]
+
+[<img align="left" alt="neelbavarva | Facebook" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/facebook.png" />][facebook]
 
 
-
+[quora]: https://www.quora.com/profile/Neel-Bavarva
 [facebook]: https://www.facebook.com/neel.bavarva
 [twitter]: https://twitter.com/BavarvaNeel
 [linkedin]: https://www.linkedin.com/in/neel-bavarva-61662a1a3
