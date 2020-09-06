@@ -5,9 +5,11 @@
 
 ### Techs I know:
 
-<img align="left" alt="neelbavarva | LinkedIn" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png" />
+<p>
+   <a><img src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
+   
+</p>
 
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/neelbavarva/github-readme-stats)
 
