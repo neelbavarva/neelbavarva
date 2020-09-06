@@ -1,10 +1,7 @@
 ### Hi there, I'm Neel 👋
 
-[![Neel's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=radical)](https://github.com/neelbavarva/github-readme-stats)
+[![Neel's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=default)](https://github.com/neelbavarva/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=radical)](https://github.com/neelbavarva/github-readme-stats) -->
-
-<hr>
 
 ### Connect with me:
 
@@ -18,3 +15,6 @@
 [twitter]: https://twitter.com/BavarvaNeel
 [instagram]: https://www.instagram.com/never_neel/
 [linkedin]: https://www.linkedin.com/in/neel-bavarva-61662a1a3
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/neelbavarva/github-readme-stats)
