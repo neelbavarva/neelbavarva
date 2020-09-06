@@ -5,14 +5,15 @@
 
 ### Techs I know:<br>
 
-<p>
-   <a><img alt="neelbavarva | Java" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
-   <a> <img alt="neelbavarva | Python" width="35px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
-   <a> <img alt="neelbavarva | Javascript" width="35px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png"></a>
-   <a> <img alt="neelbavarva | React" width="35px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
-   <a> <img alt="neelbavarva | Bootstrap" width="65px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
-   
-</p>
+[<img alt="neelbavarva | Java" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png">][java]
+
+[<img alt="neelbavarva | Python" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png">][python]
+
+[<img alt="neelbavarva | Javascript" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png">][javascript]
+
+[<img alt="neelbavarva | React" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png">][react]
+
+[<img alt="neelbavarva | Bootstrap" width="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png">][bootstrap]
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/neelbavarva/github-readme-stats)
@@ -31,7 +32,11 @@
 
 [<img align="left" alt="neelbavarva | Facebook" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/facebook.png" />][facebook]
 
-
+[java]: https://www.oracle.com/java/technologies/javase-downloads.html
+[python]: https://www.python.org/
+[javascript]: https://www.javascript.com/
+[react]: https://reactjs.org/
+[bootstrap]: https://getbootstrap.com/
 [quora]: https://www.quora.com/profile/Neel-Bavarva
 [facebook]: https://www.facebook.com/neel.bavarva
 [twitter]: https://twitter.com/BavarvaNeel
