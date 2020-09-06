@@ -10,9 +10,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="neelbavarva | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
+
 [<img align="left" alt="neelbavarva | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="neelbavarva | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />][linkedin]
+
+[<img align="left" alt="neelbavarva | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
+
+[<img align="left" alt="neelbavarva | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />][facebook]
 
 
 
