@@ -10,7 +10,7 @@
    <a><img alt="neelbavarva | Python" width="32px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
    <a><img alt="neelbavarva | Javascript" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png"></a>
    <a><img alt="neelbavarva | React" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
-   <a><img alt="neelbavarva | Bootstrap" width="80px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
+   <a><img alt="neelbavarva | Bootstrap" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
 
 </p>
 
