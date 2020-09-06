@@ -23,6 +23,6 @@
 <br />
 
 
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: 
 [instagram]: https://www.instagram.com/never_neel/
 [linkedin]: https://www.linkedin.com/in/neel-bavarva-61662a1a3
