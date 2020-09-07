@@ -16,7 +16,7 @@
    <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
    <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a>
    <a><img alt="neelbavarva | Bootstrap" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
-   <img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/code.gif" width="300" height="200" />
+   <img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/code.gif" width="340" height="220" />
 
 </p>
 
