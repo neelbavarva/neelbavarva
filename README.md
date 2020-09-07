@@ -7,6 +7,8 @@
 
 <div>
 
+ <img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/code.gif" width="450" height="300" />
+
 <p>
    <a><img alt="neelbavarva | Java" width="40px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
    <a><img alt="neelbavarva | Python" width="37px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
@@ -16,7 +18,7 @@
    <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
    <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a>
    <a><img alt="neelbavarva | Bootstrap" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
-   <img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/code.gif" width="400" height="250" />
+  
 
 </p>
 
