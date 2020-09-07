@@ -2,7 +2,7 @@
 
 [![Neel's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=default)](https://github.com/neelbavarva/github-readme-stats)
 
-<img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/code.gif" width="500" height="400" />
+<img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/code.gif" width="400" height="300" />
 
 ### Techs I know:<br>
 
