@@ -2,12 +2,11 @@
 
 [![Neel's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=default)](https://github.com/neelbavarva/github-readme-stats)
 
+<img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/code.gif" width="500" height="400" />
 
 ### Techs I know:<br>
 
 <div>
-
- <img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/code.gif" width="450" height="300" />
 
 <p>
    <a><img alt="neelbavarva | Java" width="40px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
