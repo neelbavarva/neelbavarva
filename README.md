@@ -1,6 +1,6 @@
 ### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-[![Neel's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=default)](https://github.com/neelbavarva/github-readme-stats)
+[![Neel's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true&theme=default)](https://github.com/neelbavarva/github-readme-stats)
 
 <img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/coding.gif" width="475" height="295" />
 
