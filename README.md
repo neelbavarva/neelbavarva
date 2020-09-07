@@ -16,9 +16,10 @@
    <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
    <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a>
    <a><img alt="neelbavarva | Bootstrap" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
+   <img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/code.gif" width="400" height="240" />
 
 </p>
-<img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/code.gif" width="400" height="240" />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/neelbavarva/github-readme-stats)
 
