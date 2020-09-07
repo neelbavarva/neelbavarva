@@ -5,6 +5,8 @@
 
 ### Techs I know:<br>
 
+<div>
+
 <p>
    <a><img alt="neelbavarva | Java" width="40px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
    <a><img alt="neelbavarva | Python" width="37px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
@@ -16,11 +18,13 @@
    <a><img alt="neelbavarva | Bootstrap" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
 
 </p>
-
+<img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/code.gif" width="400" height="240" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/neelbavarva/github-readme-stats)
 
-<img align="left" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/code.gif" width="500" height="320" />
+
+</div>
+
 
 <hr>
 
