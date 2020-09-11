@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/coding.gif" width="475" height="295" />
 
-### Techs I know:<br>
+### Techs I know :<br>
 
 <div>
 
