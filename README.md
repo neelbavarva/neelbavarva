@@ -19,7 +19,7 @@
    <a><img alt="neelbavarva | React" width="42px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node.png"></a>
    <a><img alt="neelbavarva | Bootstrap" width="43px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
    <a><img alt="neelbavarva | React" width="42px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/git.png"></a>
-   <a><img alt="neelbavarva | React" width="50px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/npm.png"></a>
+   <a><img alt="neelbavarva | React" width="50px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/npm1.png"></a>
    <!-- <a><img alt="neelbavarva | Redux" width="38px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/redux.png"></a> -->
    <!-- <a><img alt="neelbavarva | Django" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a> -->
    
