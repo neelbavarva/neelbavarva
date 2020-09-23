@@ -15,7 +15,7 @@
    <a><img alt="neelbavarva | CSS" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/css.png"></a>
    <a><img alt="neelbavarva | Javascript" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png"></a>
    <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
-   <a><img alt="neelbavarva | React" width="45px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node1.png"></a>
+   <a><img alt="neelbavarva | React" width="43px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node1.png"></a>
    <!-- <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node2.png"></a> -->
    <!-- <a><img alt="neelbavarva | Redux" width="38px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/redux.png"></a> -->
    <!-- <a><img alt="neelbavarva | Django" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a> -->
