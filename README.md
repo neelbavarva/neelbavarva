@@ -11,14 +11,15 @@
 <p>
    <a><img alt="neelbavarva | Java" width="40px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
    <a><img alt="neelbavarva | Python" width="37px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
+   <a><img alt="neelbavarva | React" width="42px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/cpp.png"></a>
+   <a><img alt="neelbavarva | React" width="42px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/git.png"></a>
    <a><img alt="neelbavarva | HTML" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/html.png"></a>
    <a><img alt="neelbavarva | CSS" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/css.png"></a>
    <a><img alt="neelbavarva | Javascript" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png"></a>
    <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
-   <a><img alt="neelbavarva | React" width="42px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node1.png"></a>
+   <a><img alt="neelbavarva | React" width="42px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node.png"></a>
    <a><img alt="neelbavarva | Bootstrap" width="43px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
    <a><img alt="neelbavarva | React" width="45px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/npm.png"></a>
-   <!-- <a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node2.png"></a> -->
    <!-- <a><img alt="neelbavarva | Redux" width="38px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/redux.png"></a> -->
    <!-- <a><img alt="neelbavarva | Django" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a> -->
    
