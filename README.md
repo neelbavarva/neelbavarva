@@ -9,9 +9,9 @@
 <div>
 
 <p>
-   <a><img alt="neelbavarva | Java" width="40px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
-   <a><img alt="neelbavarva | Python" width="37px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
-   <a><img alt="neelbavarva | React" width="34px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/cpp.png"></a>
+   <a><img alt="neelbavarva | Java" width="29px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
+   <a><img alt="neelbavarva | Python" width="26px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
+   <a><img alt="neelbavarva | C++" width="24px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/cpp.png"></a>
    <a><img alt="neelbavarva | HTML" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/html.png"></a>
    <a><img alt="neelbavarva | CSS" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/css.png"></a>
    <a><img alt="neelbavarva | Javascript" width="36px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png"></a>
