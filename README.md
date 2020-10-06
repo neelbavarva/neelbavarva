@@ -43,13 +43,7 @@
 <h3>Tools and Techs : </h3>
 
 
-   [<img alt="neelbavarva | LinkedIn" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/linkedin.png" />][linkedin]
-
-   [<img alt="neelbavarva | Quora" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/quora.png" />][quora]
-
-   [<img alt="neelbavarva | Twitter" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/twitter.png" />][twitter]
-
-   [<img alt="neelbavarva | Facebook" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/facebook.png" />][facebook]
+   [<img alt="neelbavarva | LinkedIn" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/linkedin.png" />][linkedin] [<img alt="neelbavarva | Quora" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/quora.png" />][quora] [<img alt="neelbavarva | Twitter" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/twitter.png" />][twitter] [<img alt="neelbavarva | Facebook" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/facebook.png" />][facebook]
 
 
 </div>
