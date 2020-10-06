@@ -47,7 +47,7 @@
 
    [<img alt="neelbavarva | LinkedIn" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/linkedin.png" />][linkedin] [<img alt="neelbavarva | Quora" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/quora.png" />][quora] [<img alt="neelbavarva | Twitter" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/twitter.png" />][twitter] [<img alt="neelbavarva | Facebook" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/facebook.png" />][facebook]
 
-   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=quora&logoColor=white" />](https://www.linkedin.com/in/neel-bavarva-61662a1a3)
+   [<img src="https://img.shields.io/badge/-Quora-red?&style=for-the-badge&logo=quora&logoColor=white" />](https://www.linkedin.com/in/neel-bavarva-61662a1a3)
 
 
 </div>
