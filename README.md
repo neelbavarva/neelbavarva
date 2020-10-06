@@ -50,6 +50,7 @@
 
 </div>
 
+<!-- Variables , in case useful -->
 
 [quora]: https://www.quora.com/profile/Neel-Bavarva
 [facebook]: https://www.facebook.com/neel.bavarva
