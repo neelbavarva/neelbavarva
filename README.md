@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/coding.gif" width="900"  />
+<img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/coding.gif" width="700"  />
 
 ### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
