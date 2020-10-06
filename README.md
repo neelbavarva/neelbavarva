@@ -1,9 +1,8 @@
-
+### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <p  align="center"><img alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/coding.gif" width="500"  />
 <hr>
 
-### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!-- [![neelbavarva's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -14,7 +13,6 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true" width="418" ></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default" width="350" ></a>
 
-###
 
 </div>
 
