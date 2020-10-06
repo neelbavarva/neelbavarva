@@ -5,10 +5,16 @@
 
 ### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-[![neelbavarva's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![neelbavarva's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&count_private=true&theme=default" width="350" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default" width="350" ></a>
+
+</div>
 
 
 </div>
