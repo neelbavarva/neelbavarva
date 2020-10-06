@@ -11,10 +11,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&count_private=true&theme=default" width="418" ></a>
+<a href="#">[![neelbavarva's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)</a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default" width="350" ></a>
 
 </div>
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&count_private=true&theme=default" width="418" > -->
 
 <br>
 
