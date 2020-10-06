@@ -4,30 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/coding.gif" width="475" height="295" />
 
-### Techs I know :<br>
 
-<div>
-
-<p>
-   <a><img alt="neelbavarva | Java" width="29px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
-   <a><img alt="neelbavarva | Python" width="26px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
-   <a><img alt="neelbavarva | C++" width="24px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/cpp.png"></a>
-   <a><img alt="neelbavarva | HTML" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/html.png"></a>
-   <a><img alt="neelbavarva | CSS" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/css.png"></a>
-   <a><img alt="neelbavarva | Javascript" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png"></a>
-   <a><img alt="neelbavarva | React" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
-   <a><img alt="neelbavarva | Bootstrap" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
-   <a><img alt="neelbavarva | Node.js" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node.png"></a>
-   <a><img alt="neelbavarva | Express" width="29px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/expressjs.png"></a>
-   <a><img alt="neelbavarva | Git" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/git.png"></a>
-   <a><img alt="neelbavarva | NPM" height="30px"src="https://github.com/neelbavarva/neelbavarva/blob/master/images/npm.png"></a>
-   <!-- <a><img alt="neelbavarva | Redux" width="38px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/redux.png"></a> -->
-   <!-- <a><img alt="neelbavarva | Django" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a> -->
-   
-   
-  
-
-</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
