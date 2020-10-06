@@ -2,7 +2,7 @@
 
 <p  align="center"><img alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/coding.gif" width="500"  />
 <hr>
-
+<br>
 
 <!-- [![neelbavarva's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
