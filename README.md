@@ -19,7 +19,7 @@
 
 <div align="center">
   
-<h3>Languages and Framework:</h3>
+<h3>Tools and Techs : </h3>
 
    <a><img alt="neelbavarva | Java" width="29px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
    <a><img alt="neelbavarva | Python" width="26px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
@@ -32,7 +32,7 @@
    <a><img alt="neelbavarva | Node.js" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node.png"></a>
    <a><img alt="neelbavarva | Express" width="29px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/expressjs.png"></a>
    <a><img alt="neelbavarva | Git" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/git.png"></a>
-   <a><img alt="neelbavarva | NPM" height="30px"src="https://github.com/neelbavarva/neelbavarva/blob/master/images/npm.png"></a>
+   <a><img alt="neelbavarva | NPM" height="30px"src="https://raw.githubusercontent.com/neelbavarva/neelbavarva/master/images/npm.png"></a>
    <!-- <a><img alt="neelbavarva | Redux" width="27px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/redux.png"></a> -->
    <!-- <a><img alt="neelbavarva | Django" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a> -->
 
