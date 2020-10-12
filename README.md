@@ -10,7 +10,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true" width="418" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=dark&include_all_commits=true" width="418" ></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=dark" width="350" ></a>
 
 
