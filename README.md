@@ -1,6 +1,6 @@
 ### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<p  align="center"><img alt="GIF" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/programming.png" width="500"  />
+<p  align="center"><img alt="Mainpng" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/programming.png" width="300"  />
 <hr>
 <br>
 
