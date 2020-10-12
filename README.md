@@ -1,6 +1,6 @@
 ### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<p  align="center"><img alt="Mainpng" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300"  />
+<p  align="center"><img alt="Mainpng" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250"  />
 <hr>
 <br>
 
@@ -57,3 +57,7 @@
 
 
 
+<!-- Useful Links -->
+
+<!-- https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif -->
+<!-- https://miro.medium.com/max/875/1*X_FFeLvsgZ0Q-weKkc_byw.gif -->
