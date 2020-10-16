@@ -27,9 +27,9 @@
 <a><img alt="neelbavarva | React" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
 <a><img alt="neelbavarva | Bootstrap" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
 <a><img alt="neelbavarva | Node.js" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node.png"></a>
-<a><img alt="neelbavarva | NPM" height="26px" src="https://raw.githubusercontent.com/neelbavarva/neelbavarva/master/images/mongodb.png"></a>
+<a><img alt="neelbavarva | NPM" height="27px" src="https://raw.githubusercontent.com/neelbavarva/neelbavarva/master/images/mongodb.png"></a>
 <a><img alt="neelbavarva | Express" width="29px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/expressjs.png"></a>
-<a><img alt="neelbavarva | NPM" height="26px" src="https://raw.githubusercontent.com/neelbavarva/neelbavarva/master/images/npm.png"></a>
+<a><img alt="neelbavarva | NPM" height="27px" src="https://raw.githubusercontent.com/neelbavarva/neelbavarva/master/images/npm.png"></a>
 <a><img alt="neelbavarva | Git" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/git.png"></a>
 
    <!-- <a><img alt="neelbavarva | Redux" width="27px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/redux.png"></a> -->
