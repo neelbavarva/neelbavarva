@@ -24,7 +24,7 @@
 <a><img alt="neelbavarva | HTML" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/html.png"></a>
 <a><img alt="neelbavarva | CSS" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/css.png"></a>
 <a><img alt="neelbavarva | Javascript" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png"></a>
-<a><img alt="neelbavarva | NPM" height="27px" src="https://raw.githubusercontent.com/neelbavarva/neelbavarva/master/images/npm.png"></a>
+<a><img alt="neelbavarva | NPM" height="25px" src="https://raw.githubusercontent.com/neelbavarva/neelbavarva/master/images/npm.png"></a>
 <a><img alt="neelbavarva | React" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
 <a><img alt="neelbavarva | Bootstrap" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
 <a><img alt="neelbavarva | Node.js" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node.png"></a>
