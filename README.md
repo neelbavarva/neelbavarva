@@ -18,7 +18,7 @@
   
 <h3>Tools and Techs : </h3>
 
-<a><img alt="neelbavarva | Java" width="50px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java1.png"></a>
+<a><img alt="neelbavarva | Java" width="55px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
 <a><img alt="neelbavarva | Python" width="26px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
 <a><img alt="neelbavarva | C++" width="24px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/cpp.png"></a>
 <a><img alt="neelbavarva | HTML" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/html.png"></a>
