@@ -35,6 +35,7 @@
 
    <!-- <a><img alt="neelbavarva | Redux" width="27px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/redux.png"></a> -->
    <!-- <a><img alt="neelbavarva | Django" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a> -->
+   <!-- <a><img alt="neelbavarva | Django" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a> -->
 
 </div>
 
