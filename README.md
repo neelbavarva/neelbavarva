@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/RThN0hOS2GO4M/giphy.gif">
 </div> -->
 
-## Hola, I'm <a>Sarvesh Khandelwal!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hola, I'm <a>Neel Bavarva!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <a><img align='right' alt="neelbavarva | MERN Stack" width="400px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
@@ -15,13 +15,13 @@
 
 - 🧐 I'm also currently exploring **BlockChain**
 
-- 👯 I’m looking to collaborate on **OpenSource**
+- 👯 I’m looking to contribute in **OpenSource**
 
 - 💬 Ask me about **Web Development**
 
-- 🥅 2020 Goals: Contribute more to **Open Source projects**
+- 🥅 2021 Goals: Contribute more to **Open Source projects**
 
-- ⚡ Fun fact **Coffee + Programming + ChillBeats is Love**
+- ⚡ Fun fact **Coffee+Programming+ChillBeats is Love**
 
 <hr>
 <div align="center">
@@ -31,8 +31,7 @@
 </div>
 
 <div align="center">
-  
-<hr>
+
 <h3>Tools and Techs : </h3>
 
 <a><img alt="neelbavarva | Java" width="30px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
