@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<h3>Tools and Techs : </h3>
+### Tools and Tech
 
 <a><img alt="neelbavarva | Java" width="30px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
 <a><img alt="neelbavarva | Python" width="26px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a>
