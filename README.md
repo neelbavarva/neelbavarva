@@ -32,7 +32,7 @@
 <a><img alt="neelbavarva | React" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
 <a><img alt="neelbavarva | Bootstrap" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
 <a><img alt="neelbavarva | Node.js" width="30px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node.png"></a>
-<a><img alt="neelbavarva | NPM" height="27px" src="https://raw.githubusercontent.com/neelbavarva/neelbavarva/master/images/mongodb.png"></a>
+<a><img alt="neelbavarva | NPM" height="27px" src="https://raw.githubusercontent.com/neelbavarva/neelbavarva/master/images/mern.png"></a>
 <a><img alt="neelbavarva | Express" width="29px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/expressjs.png"></a>
 <a><img alt="neelbavarva | Jest" width="25px" src="https://camo.githubusercontent.com/0dec7ba517487c3f5b2e6d946ae188e1b78e4ee2/68747470733a2f2f63646e2e7261776769742e636f6d2f677261622f66726f6e742d656e642d67756964652f6d61737465722f696d616765732f6a6573742d6c6f676f2e737667"></a>
 <a><img alt="neelbavarva | NPM" height="27px" src="https://raw.githubusercontent.com/neelbavarva/neelbavarva/master/images/npm.png"></a>
