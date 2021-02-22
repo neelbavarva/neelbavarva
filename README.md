@@ -2,32 +2,26 @@
 <img src="https://media.giphy.com/media/RThN0hOS2GO4M/giphy.gif">
 </div> -->
 
-
-### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
+## Hola, I'm <a>Sarvesh Khandelwal!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <a><img align='right' alt="neelbavarva | Java" width="500px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
 
-### A passionate Web developer from India
+### Full Stack MERN Developer
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently focussing on **Competitive**
 
-- 👯 I’m looking to collaborate on **Github**
+- 🧐 I'm also currently exploring **BlockChain**
 
-- 🥅 2020 Goals: Contribute more to **Open Source projects**
-
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/SARVESHKHANDELWAL](https://github.com/SARVESHKHANDELWAL)
+- 👯 I’m looking to collaborate on **OpenSource**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me: [Gmail - @sarvesh](mailto:sarveshk21122001@gmail.com), [Twitter - @sarveshkhande17](https://twitter.com/sarveshkhande17) -->
+- 🥅 2020 Goals: Contribute more to **Open Source projects**
 
-- ⚡ Fun fact **Coffee is Love**
+- ⚡ Fun fact **Coffee + Programming + ChillBeats is Love**
 
-<!-- [![neelbavarva's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
+<br>
 
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" width="418" ></a>
