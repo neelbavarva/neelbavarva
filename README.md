@@ -5,9 +5,7 @@
 
 ### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=neelbavarva)](https://github.com/LordDashMe/github-contribution-stats/)
 
-<hr>
 <br>
 
 <!-- [![neelbavarva's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,6 +20,7 @@
 
 <div align="center">
   
+<hr>
 <h3>Tools and Techs : </h3>
 
 <a><img alt="neelbavarva | Java" width="30px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
@@ -44,7 +43,7 @@
    <a><img alt="neelbavarva | Django" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a>
 
 </div>
-
+<hr>
 <div align="center">
   
 <h3>Connect with me!</h3>
