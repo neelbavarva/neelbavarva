@@ -8,7 +8,7 @@
 
 <br>
 
-<a><img alt="neelbavarva | Java" width="400px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
+<a><img alt="neelbavarva | Java" width="500px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
 
 <!-- [![neelbavarva's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
