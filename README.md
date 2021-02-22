@@ -5,7 +5,8 @@
 
 ### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<p  align="center"><img alt="Mainpng" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250"  />
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=neelbavarva)](https://github.com/LordDashMe/github-contribution-stats/)
+
 <hr>
 <br>
 
