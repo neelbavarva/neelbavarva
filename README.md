@@ -3,23 +3,23 @@
 </div>
 
 
-<!-- ### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
+### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!-- <p  align="center"><img alt="Mainpng" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250"  />
+<p  align="center"><img alt="Mainpng" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250"  />
 <hr>
-<br> -->
+<br>
 
-<!-- [![neelbavarva's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![neelbavarva's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <div align="center">
+<div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=dark&include_all_commits=true" width="418" ></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=dark" width="350" ></a>
 
-</div> -->
+</div>
 
-<!-- <div align="center">
+<div align="center">
   
 <h3>Tools and Techs : </h3>
 
@@ -36,13 +36,13 @@
 <a><img alt="neelbavarva | Express" width="29px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/expressjs.png"></a>
 <a><img alt="neelbavarva | Jest" width="25px" src="https://camo.githubusercontent.com/0dec7ba517487c3f5b2e6d946ae188e1b78e4ee2/68747470733a2f2f63646e2e7261776769742e636f6d2f677261622f66726f6e742d656e642d67756964652f6d61737465722f696d616765732f6a6573742d6c6f676f2e737667"></a>
 <a><img alt="neelbavarva | NPM" height="27px" src="https://raw.githubusercontent.com/neelbavarva/neelbavarva/master/images/npm.png"></a>
-<a><img alt="neelbavarva | Git" width="29px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/git.png"></a> -->
+<a><img alt="neelbavarva | Git" width="29px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/git.png"></a>
 
-   <!-- <a><img alt="neelbavarva | Redux" width="27px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/redux.png"></a> -->
-   <!-- <a><img alt="neelbavarva | Django" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a> -->
-   <!-- <a><img alt="neelbavarva | Django" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a> -->
+   <a><img alt="neelbavarva | Redux" width="27px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/redux.png"></a>
+   <a><img alt="neelbavarva | Django" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a>
+   <a><img alt="neelbavarva | Django" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a>
 
-<!-- </div>
+</div>
 
 <div align="center">
   
@@ -50,7 +50,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/neel-bavarva-61662a1a3) [<img src="https://img.shields.io/badge/-Quora-red?&style=for-the-badge&logo=quora&logoColor=white" />](https://www.quora.com/profile/Neel-Bavarva) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/BavarvaNeel) [<img src = "https://img.shields.io/badge/-Facebook-informational?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/neel.bavarva)
 
-</div> -->
+</div>
 
 <!-- Variables , in case useful -->
 
