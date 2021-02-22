@@ -5,7 +5,7 @@
 ## Hola, I'm <a>Sarvesh Khandelwal!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<a><img align='right' alt="neelbavarva | Java" width="500px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
+<a><img align='right' alt="neelbavarva | MERN Stack" width="400px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
 
 <br>
 
@@ -23,8 +23,7 @@
 
 - ⚡ Fun fact **Coffee + Programming + ChillBeats is Love**
 
-
-
+<hr>
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" width="418" ></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=dark&hide_border=true" width="350" ></a>
