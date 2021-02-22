@@ -6,9 +6,24 @@
 ### Hi there, I'm Neel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-<br>
 
-<a><img alt="neelbavarva | Java" width="500px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
+<a><img align='right' alt="neelbavarva | Java" width="500px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
+
+### A passionate Web developer from India
+
+- 🌱 I’m currently learning **ReactJs**
+
+- 👯 I’m looking to collaborate on **Github**
+
+- 🥅 2020 Goals: Contribute more to **Open Source projects**
+
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/SARVESHKHANDELWAL](https://github.com/SARVESHKHANDELWAL)
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me: [Gmail - @sarvesh](mailto:sarveshk21122001@gmail.com), [Twitter - @sarveshkhande17](https://twitter.com/sarveshkhande17) -->
+
+- ⚡ Fun fact **Coffee is Love**
 
 <!-- [![neelbavarva's github stats](https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
