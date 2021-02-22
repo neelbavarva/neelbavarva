@@ -7,6 +7,8 @@
 
 <a><img align='right' alt="neelbavarva | Java" width="500px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
 
+<br>
+
 ### Full Stack MERN Developer
 
 - 🌱 I’m currently focussing on **Competitive**
@@ -21,7 +23,7 @@
 
 - ⚡ Fun fact **Coffee + Programming + ChillBeats is Love**
 
-<br>
+
 
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" width="418" ></a>
