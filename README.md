@@ -22,7 +22,7 @@
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
 
 - ⚡ Fun fact **Coffee+Programming+ChillBeats is Love**
-<br>
+
 <!-- <hr> -->
 </div>
 <hr>
