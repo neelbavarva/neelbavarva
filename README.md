@@ -4,11 +4,9 @@
 
 ## Hola, I'm <a>Neel Bavarva!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<a><img align='right' alt="neelbavarva | MERN Stack" width="300px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
+<a><img align='right' alt="neelbavarva | MERN Stack" width="350px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
 
-<!-- <br>
 <br>
-<br> -->
 
 ### Full Stack MERN Developer
 
