@@ -7,7 +7,7 @@
 <a><img align='right' alt="neelbavarva | MERN Stack" width="400px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
 
 <br>
-
+<br>
 ### Full Stack MERN Developer
 
 - 🌱 I’m currently focussing on **Competitive**
