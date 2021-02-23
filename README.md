@@ -26,6 +26,7 @@
 
 
 <div align="center">
+<hr>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" width="418" ></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=dark&hide_border=true" width="350" ></a>
 
