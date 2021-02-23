@@ -4,6 +4,7 @@
 
 ## Hola, I'm <a>Neel Bavarva!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<a><img align='right' alt="neelbavarva | MERN Stack" width="400px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
 
 ### Full Stack MERN Developer
 
@@ -19,14 +20,9 @@
 
 - ⚡ Fun fact **Coffee+Programming+ChillBeats is Love**
 
-
-<a><img align='right' alt="neelbavarva | MERN Stack" width="450px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
-<br>
-<!-- <hr> -->
-
+<hr>
 
 <div align="center">
-<hr>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" width="418" ></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=dark&hide_border=true" width="350" ></a>
 
