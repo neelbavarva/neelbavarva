@@ -6,7 +6,7 @@
 
 
 <a><img align='right' alt="neelbavarva | MERN Stack" width="450px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
-
+<br>
 <!-- <hr> -->
 
 ### Full Stack MERN Developer
@@ -24,7 +24,7 @@
 - ⚡ Fun fact **Coffee+Programming+ChillBeats is Love**
 
 <!-- <hr> -->
-<br>
+
 
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" width="418" ></a>
