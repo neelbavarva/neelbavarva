@@ -5,9 +5,6 @@
 ## Hola, I'm <a>Neel Bavarva!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<a><img align='right' alt="neelbavarva | MERN Stack" width="450px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
-
-
 ### Full Stack MERN Developer
 
 - 🌱 I’m currently focussing on **Competitive**
@@ -22,6 +19,9 @@
 
 - ⚡ Fun fact **Coffee+Programming+ChillBeats is Love**
 
+
+<a><img align='right' alt="neelbavarva | MERN Stack" width="450px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
+<br>
 <!-- <hr> -->
 
 
