@@ -9,7 +9,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ### Full Stack MERN Developer
 
