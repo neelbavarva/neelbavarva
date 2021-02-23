@@ -25,8 +25,8 @@
 <hr>
 
 <div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" width="455" ></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" width="455" ></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
 
 </div>
 
