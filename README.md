@@ -6,8 +6,7 @@
 
 
 <a><img align='right' alt="neelbavarva | MERN Stack" width="450px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
-<br>
-<hr>
+
 
 ### Full Stack MERN Developer
 
