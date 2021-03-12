@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to contribute in **OpenSource**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development** & **React Native**
 
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
 
