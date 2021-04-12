@@ -28,7 +28,7 @@
 <hr>
 
 <div align="center">
-<a><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&include_all_commits&show_icons=true&theme=tokyonight&hide_border=true" width="455" ></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="455" ></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
 
 </div>
