@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **Coffee+Programming+ChillBeats is Love**
 
-- 📄 <a href="https://drive.google.com/file/d/1g6KHV_6QAEIDC4FxouLl95mWG3B5PUf-/view?usp=sharing">My Resume</a>
+<!-- - 📄 <a href="https://drive.google.com/file/d/1g6KHV_6QAEIDC4FxouLl95mWG3B5PUf-/view?usp=sharing">My Resume</a> -->
 
 
 <hr>
