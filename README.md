@@ -45,7 +45,7 @@
 <a><img alt="neelbavarva | Express" width="39px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/expressjs.png"></a>
 <a><img alt="neelbavarva | NPM" height="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mongodb.png"></a>
 <a><img alt="neelbavarva | NPM" height="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/npm.png"></a>
-<a><img alt="neelbavarva | NPM" height="35px" src="https://developers.redhat.com/blog/wp-content/uploads/2015/01/docker-whale-home-logo.png"></a>
+<a href="https://hub.docker.com/u/neelbavarva"><img alt="neelbavarva | NPM" height="35px" src="https://developers.redhat.com/blog/wp-content/uploads/2015/01/docker-whale-home-logo.png"></a>
 <!-- <a><img alt="neelbavarva | Jest" width="25px" src="https://camo.githubusercontent.com/0dec7ba517487c3f5b2e6d946ae188e1b78e4ee2/68747470733a2f2f63646e2e7261776769742e636f6d2f677261622f66726f6e742d656e642d67756964652f6d61737465722f696d616765732f6a6573742d6c6f676f2e737667"></a> -->
 <!-- <a><img alt="neelbavarva | Git" width="29px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/git.png"></a> -->
 <!-- <a><img alt="neelbavarva | Python" width="26px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a> -->
