@@ -5,13 +5,11 @@
 <div align="center">
    <h2> 𝗛𝗲𝗹𝗹𝗼 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, It's Neel here</h2>
 </div>
+<h2>Full Stack MERN Developer</h2>
 
 <a><img align='right' alt="neelbavarva | MERN Stack" width="350px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
 
 <br>
-
-### Full Stack MERN Developer
-
 - 🌱 I’m currently focussing on **Competitive**
 
 - 🧐 I'm also currently exploring **BlockChain**
