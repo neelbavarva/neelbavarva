@@ -29,6 +29,9 @@
 
 <div align="center">
    <img width="200" src="https://media.giphy.com/media/vx3tCALXqZ1NGjotL7/giphy.gif" />
+</div>
+
+<div align="center">
    <img src="https://novatorem-4mxd7l81k-neelbavarva.vercel.app/api/spotify" />
 </div>
 
