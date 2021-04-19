@@ -38,7 +38,7 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
-<img src="https://novatorem-4mxd7l81k-neelbavarva.vercel.app/api/spotify" />
+<img src="https://media.tenor.com/images/acbaea5a9d2b605f9ca035304fb2d752/tenor.gif" />
 
 
 
