@@ -7,10 +7,11 @@
    <img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" />
 </div>
 
+<hr>
 
 <a><img align='right' alt="neelbavarva | MERN Stack" width="300px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
 
-<br>
+
 
 ### Full Stack MERN Developer
 
