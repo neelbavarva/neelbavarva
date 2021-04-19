@@ -9,7 +9,7 @@
 </div>
 
 
-<a><img align='right' alt="neelbavarva | MERN Stack" width="320px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
+<a><img align='right' alt="neelbavarva | MERN Stack" width="300px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
 
 <br>
 
