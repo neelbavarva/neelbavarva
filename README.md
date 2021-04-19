@@ -25,7 +25,7 @@
 <!-- - 📄 <a href="https://drive.google.com/file/d/1g6KHV_6QAEIDC4FxouLl95mWG3B5PUf-/view?usp=sharing">My Resume</a> -->
 
 <div align="center">
-   ![Spotify](https://novatorem-4mxd7l81k-neelbavarva.vercel.app/api/spotify)
+   <img src="https://novatorem-4mxd7l81k-neelbavarva.vercel.app/api/spotify" />
 </div>
 
 
