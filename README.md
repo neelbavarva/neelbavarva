@@ -49,7 +49,7 @@
 
 <div align="center">
 
-### Tech Stack
+## 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <a href="https://github.com/neelbavarva/Java" ><img alt="neelbavarva | Java" width="45px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
 <a><img alt="neelbavarva | Javascript" width="32px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png"></a>
