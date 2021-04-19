@@ -39,8 +39,6 @@
 </div>
 
 
-<hr>
-
 <div align="center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="455" ></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
@@ -71,7 +69,7 @@
 <a><img alt="neelbavarva | Django" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a> -->
 
 </div>
-<hr>
+
 <div align="center">
   
 <h3>Connect with me!</h3>
