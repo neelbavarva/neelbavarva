@@ -28,8 +28,7 @@
 <br>
 
 <div align="center">
-   <h2>Spotify Playing</h2>
-   <img width="70" src="https://storage.googleapis.com/pr-newsroom-wp/1/2020/02/Spotify_ProductMarketing_UIRefresh_GIFs_v03_022120_SR_ShuffleButton_NoLogo-2.gif" />
+   <h2>Spotify Playing 🎧</h2>
 </div>
 
 <div align="center">
