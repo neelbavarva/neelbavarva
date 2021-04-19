@@ -31,13 +31,12 @@
 
 <br>
 
-<div align="center">
-   <h1>Spotify Playing 🎧</h1>
-</div>
 
-<div align="center">
-   <img src="https://novatorem-4mxd7l81k-neelbavarva.vercel.app/api/spotify" />
-</div>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+<img src="https://novatorem-4mxd7l81k-neelbavarva.vercel.app/api/spotify" />
 
 
 <div align="center">
