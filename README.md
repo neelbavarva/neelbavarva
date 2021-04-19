@@ -2,7 +2,6 @@
 <img src="https://media.giphy.com/media/RThN0hOS2GO4M/giphy.gif">
 </div> -->
 
-## Hola, I'm <a>Neel Bavarva!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div align="center">
    <h2> 𝗛𝗲𝗹𝗹𝗼 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, It's Neel here</h2>
 </div>
