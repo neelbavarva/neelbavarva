@@ -4,7 +4,7 @@
 
 <div align="center">
    <h1> 𝗛𝗲𝗹𝗹𝗼 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, It's Neel here</h1>
-   <img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" />
+   <img src="https://github.com/neelbavarva/neelbavarva/blob/master/images/header_.png" />
 </div>
 
 <hr>
