@@ -12,6 +12,7 @@
 <a><img align='right' alt="neelbavarva | MERN Stack" width="320px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mern.png"></a>
 
 <br>
+
 - 🌱 I’m currently focussing on **Competitive**
 
 - 🧐 I'm also currently exploring **BlockChain**
