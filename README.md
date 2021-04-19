@@ -29,10 +29,10 @@
 
 <!-- - 📄 <a href="https://drive.google.com/file/d/1g6KHV_6QAEIDC4FxouLl95mWG3B5PUf-/view?usp=sharing">My Resume</a> -->
 
-
+<br>
 
 <div align="center">
-   <h2>Spotify Playing 🎧</h2>
+   <h1>Spotify Playing 🎧</h1>
 </div>
 
 <div align="center">
