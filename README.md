@@ -25,7 +25,7 @@
 
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
 
-- ⚡ Fun fact **Coffee+Programming+ChillBeats is Love**
+- ⚡ Fun fact **Coffee+Programming+Lofi is Love**
 
 <!-- - 📄 <a href="https://drive.google.com/file/d/1g6KHV_6QAEIDC4FxouLl95mWG3B5PUf-/view?usp=sharing">My Resume</a> -->
 
