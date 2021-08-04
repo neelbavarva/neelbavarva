@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently focussing on **Competitive**
 
-- 🧐 I'm also currently exploring **BlockChain**
+<!-- - 🧐 I'm also currently exploring **BlockChain** -->
 
 - 👯 I’m looking to contribute in **OpenSource**
 
