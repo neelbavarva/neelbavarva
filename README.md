@@ -41,7 +41,7 @@
 
 
 <div align="center">
-<img src="https://novatorem-two-mu.vercel.app/api/spotify" />
+<!-- <img src="https://novatorem-two-mu.vercel.app/api/spotify" /> -->
 </div>
 
 <br>
