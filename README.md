@@ -7,7 +7,9 @@
 <!--    <img src="https://github.com/neelbavarva/neelbavarva/blob/master/images/header_.png" /> -->
 </div>
 
-<hr>
+<!-- <br/> -->
+
+<!-- <hr> -->
 
 <a><img align='right' alt="neelbavarva | MERN Stack" width="450px"  src="https://res.cloudinary.com/neel0506/image/upload/v1631278658/portfolio/rnqhifuegm7vqlkrssck.png"></a>
 
