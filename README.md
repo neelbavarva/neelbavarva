@@ -9,7 +9,7 @@
 
 <hr>
 
-<a><img align='right' alt="neelbavarva | MERN Stack" width="450px"  src="https://preview.redd.it/r7nwau5hb4m51.jpg?auto=webp&s=81c82aaf86b3587ff7d0fb3c95fb533ea898f4cd"></a>
+<a><img align='right' alt="neelbavarva | MERN Stack" width="450px"  src="https://res.cloudinary.com/neel0506/image/upload/v1631278658/portfolio/rnqhifuegm7vqlkrssck.png"></a>
 
 
 
