@@ -21,11 +21,11 @@
 
 <!-- - 🧐 I'm also currently exploring **BlockChain** -->
 
-- 👯 I’m looking to contribute in **OpenSource**
+<!-- - 👯 I’m looking to contribute in **OpenSource** -->
 
 - 💬 Ask me about **Web Development** & **React Native**
 
-- 🥅 2021 Goals: Contribute more to **Open Source projects**
+<!-- - 🥅 2021 Goals: Contribute more to **Open Source projects** -->
 
 - ⚡ Fun fact **Coffee+Programming+Lofi is Love**
 
