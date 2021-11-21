@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently focussing on **Competitive**
 
-<!-- - 🧐 I'm also currently exploring **BlockChain** -->
+- 🧐 I'm also currently exploring **System Design**
 
 <!-- - 👯 I’m looking to contribute in **OpenSource** -->
 
