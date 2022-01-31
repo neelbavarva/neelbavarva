@@ -1,104 +1,58 @@
-<!-- <div align="center">
-<img src="https://media.giphy.com/media/RThN0hOS2GO4M/giphy.gif">
-</div> -->
+## Hi there, I am Neel 👋
 
-<div align="center">
-   <h1> 𝗛𝗲𝗹𝗹𝗼 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, It's Neel here</h1>
-<!--    <img src="https://github.com/neelbavarva/neelbavarva/blob/master/images/header_.png" /> -->
-</div>
+### 👨‍💻 `whoami`
 
-<br/>
-
-<!-- <hr> -->
-
-<a><img align='right' alt="neelbavarva | MERN Stack" width="450px"  src="https://res.cloudinary.com/neel0506/image/upload/v1631278658/portfolio/rnqhifuegm7vqlkrssck.png"></a>
-
-
-
-### Full Stack MERN Developer
-
-- 🌱 I’m currently focussing on **Competitive**
-
-- 🧐 I'm also currently exploring **System Design**
-
-<!-- - 👯 I’m looking to contribute in **OpenSource** -->
-
+- 🌱 I am a **Full Stack Web** and **React Native Developer**.
+- 🧐 I am currently focussing on my **Problem solving skills**.
 - 💬 Ask me about **Web Development** & **React Native**
-
-<!-- - 🥅 2021 Goals: Contribute more to **Open Source projects** -->
-
-- ⚡ Fun fact **Coffee+Programming+Lofi is Love**
-
-- 📄 Reach me out : <a href="https://portfolio-neelbavarva.vercel.app/">Portfolio</a>
-
-<!-- - 📄 <a href="https://drive.google.com/file/d/1g6KHV_6QAEIDC4FxouLl95mWG3B5PUf-/view?usp=sharing">My Resume</a> -->
-
-<br>
+- 🧑‍🎓 Graduating from **NIT Surat** in Summer 2023.
+- ⚡ Fun fact **Coffee + Programming + Lofi is Love**.
 
 
+### 🤝 Reach me out
 
-<!-- [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)
-[![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) -->
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/neel-bavarva-61662a1a3) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/neel_bavarva)
 
-<!-- <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
+- :globe_with_meridians: [**Portfolio**](https://neelbavarva.tech/)
+- 📄 [**Resume**](https://bit.ly/32BQ8H4)
 
-<br>
+### ⚡ Skills
+
+#### Programming Languages
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+#### Frameworks, Libraries, Tools and Platforms
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+#### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Devops
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-<div align="center">
-<!-- <img src="https://novatorem-two-mu.vercel.app/api/spotify" /> -->
-</div>
+### 📈 Github Stats
 
-<br>
 
-<div align="center">
+<div align="left">
 <a><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="455" ></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
 
 </div>
 
-<div align="center">
-
-## 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
-
-<a href="https://github.com/neelbavarva/Java" ><img alt="neelbavarva | Java" width="45px"  src="https://github.com/neelbavarva/neelbavarva/blob/master/images/java.png"></a>
-<a><img alt="neelbavarva | Javascript" width="32px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/javascript.png"></a>
-<a><img alt="neelbavarva | Bootstrap" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/bootstrap.png"></a>
-<a><img alt="neelbavarva | React" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/react.png"></a>
-<a><img alt="neelbavarva | Node.js" width="40px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/node.png"></a>
-<a><img alt="neelbavarva | Express" width="39px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/expressjs.png"></a>
-<a><img alt="neelbavarva | NPM" height="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/mongodb.png"></a>
-<a><img alt="neelbavarva | NPM" height="35px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/npm.png"></a>
-<a href="https://hub.docker.com/u/neelbavarva"><img alt="neelbavarva | NPM" height="35px" src="https://developers.redhat.com/blog/wp-content/uploads/2015/01/docker-whale-home-logo.png"></a>
-<a href="https://spring.io/projects/spring-boot"><img alt="neelbavarva | Kali" height="35px" src="https://res.cloudinary.com/neel0506/image/upload/v1633928647/random/nc3kqpopmnfmk58ges7e.png"></a>
-<!-- <a><img alt="neelbavarva | Jest" width="25px" src="https://camo.githubusercontent.com/0dec7ba517487c3f5b2e6d946ae188e1b78e4ee2/68747470733a2f2f63646e2e7261776769742e636f6d2f677261622f66726f6e742d656e642d67756964652f6d61737465722f696d616765732f6a6573742d6c6f676f2e737667"></a> -->
-<!-- <a><img alt="neelbavarva | Git" width="29px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/git.png"></a> -->
-<!-- <a><img alt="neelbavarva | Python" width="26px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/python.png"></a> -->
-<!-- <a><img alt="neelbavarva | C++" width="24px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/cpp.png"></a> -->
-<!-- <a><img alt="neelbavarva | HTML" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/html.png"></a>
-<a><img alt="neelbavarva | CSS" width="25px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/css.png"></a> -->
-<!-- <a><img alt="neelbavarva | Redux" width="27px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/redux.png"></a>
-<a><img alt="neelbavarva | Django" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a>
-<a><img alt="neelbavarva | Django" width="28px" src="https://github.com/neelbavarva/neelbavarva/blob/master/images/django.png"></a> -->
-
-</div>
-
-<div align="center">
-  
-<h3>Connect with me!</h3>
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/neel-bavarva-61662a1a3) [<img src="https://img.shields.io/badge/-Quora-red?&style=for-the-badge&logo=quora&logoColor=white" />](https://www.quora.com/profile/Neel-Bavarva) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/BavarvaNeel) [<img src = "https://img.shields.io/badge/-Facebook-informational?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/neel.bavarva)
-
-</div>
-
-<!-- Variables , in case useful -->
-
-<!-- [quora]: https://www.quora.com/profile/Neel-Bavarva
-[facebook]: https://www.facebook.com/neel.bavarva
-[twitter]: https://twitter.com/BavarvaNeel
-[linkedin]: https://www.linkedin.com/in/neel-bavarva-61662a1a3 -->
-
-<!-- Useful Links -->
-
-<!-- https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif -->
-<!-- https://miro.medium.com/max/875/1*X_FFeLvsgZ0Q-weKkc_byw.gif -->
