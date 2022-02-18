@@ -1,4 +1,4 @@
-## Hi there, I am Neel 👋
+<!-- ## Hi there, I am Neel 👋
 
 ### 👨‍💻 `whoami`
 
@@ -7,7 +7,6 @@
 - 💬 Ask me about **Web Development** & **React Native**
 - 🧑‍🎓 Graduating from **NIT Surat** in Summer 2023.
 - ⚡ Fun fact **Coffee + Programming + Lofi is Love**.
-
 
 ### 🤝 Reach me out
 
@@ -52,4 +51,8 @@
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
 
 </div>
+ -->
 
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+
+#### Aah! I'm stuck with this error. Please help me out : :globe_with_meridians: [**Portfolio**](https://neelbavarva.tech/)  📄 [**Resume**](https://bit.ly/32BQ8H4)
