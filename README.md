@@ -53,6 +53,7 @@
 </div>
  -->
 
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+<img width=300 src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
 
-#### Aah! I'm stuck with this error. Please help me out : :globe_with_meridians: [**Portfolio**](https://neelbavarva.tech/)  📄 [**Resume**](https://bit.ly/32BQ8H4)
+#### Aah! I'm stuck with this error. 
+#### Please help me out : :globe_with_meridians: [**Portfolio**](https://neelbavarva.tech/)  📄 [**Resume**](https://bit.ly/32BQ8H4)
