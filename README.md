@@ -1,4 +1,4 @@
-<!-- ## Hi there, I am Neel 👋
+## Hi there, I am Neel 👋
 
 ### 👨‍💻 `whoami`
 
@@ -47,13 +47,10 @@
 
 
 <div align="left">
-<a><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="455" ></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
-
+<a><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&show_icons=true&theme=dark&hide_border=true&count_private=true" width="455" ></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=dark&hide_border=true" width="380" ></a>
 </div>
- -->
 
-<img width=300 src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+### 📈 Leetcode Stats
 
-#### Aah! I'm stuck with this error. 
-#### Please help me out : :globe_with_meridians: [**Portfolio**](https://neelbavarva.tech/)  📄 [**Resume**](https://bit.ly/32BQ8H4)
+<a><img src="https://leetcard.jacoblin.cool/neelbavarva?theme=dark&font=Open%20Sans&ext=contest" /></a>
