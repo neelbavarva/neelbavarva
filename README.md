@@ -12,7 +12,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/neel-bavarva-61662a1a3) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/neelbavarva)
 
-- :globe_with_meridians: [**Portfolio**](https://neelbavarva.tech/)
+- :globe_with_meridians: [**Portfolio**](https://neelbavarva.com/)
 - 📄 [**Resume**](https://drive.google.com/file/d/1oyi0gHekD9A7rUDXpGGzX2-RkawIIYFP/view)
 
 ### ⚡ Skills
