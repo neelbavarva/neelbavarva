@@ -1,6 +1,3 @@
-## Hi there, I am Neel 👋
-
-
 ### 🤝 Reach me out
 
 - Portfolio - https://neelbavarva.vercel.app
